@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 :root {
-  --theme-color: #5074f3;
+  --theme-color: #093141;
 }
 body {
   background-color: var(--theme-color);

@@ -30,7 +30,7 @@ body {
   width: 11.25em;
   display: block;
   margin: -8.75em auto 0 auto;
-  background-color: #ffffff;
+  background-color: #1c43c5;
   box-shadow: 0 0 0 0.3em #ffffff, 0 0 0 0.9em var(--theme-color);
   border-radius: 50%;
 }
